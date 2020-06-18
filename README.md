@@ -30,7 +30,9 @@
 ---
 ## Machine Learning Algorithm
 - Train and Test sizes were 70% and 30% each.
-- ML model Multiple Logistic Regression gives us an **accuracy of 82.09%**
+- ML model **Multiple Logistic Regression** gives us an **accuracy of 82.09%**
+- **Decision Tree Classifier** gives an **accuracy_score of 71.16%**
+- **RandomForestClassifier** gives us an **accuracy_score of 76.84%**
 ---
 ## Prediction 
 - Prediction model was built and deployed. 
