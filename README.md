@@ -1,4 +1,5 @@
 # Diabetes-Prediction
+- This Notebook will help predict the chances of a women having Diabetes based on input provided. 
 
 ## Data Information:
 - Downloaded from [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
