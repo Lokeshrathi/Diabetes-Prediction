@@ -21,12 +21,21 @@
 - Insulin Values was converted to mean, as many values were between 0-10
 ---
 ## Observation
+![](Images/rel.png)
+
+- Relation between various parameters of the dataset.
+
 ![](https://github.com/Lokeshrathi/Diabetes-Prediction/blob/master/Images/preg.png)
+
 - Women with lesser number of pregrenancy have less chances of getting Diabetes
+
 ![](https://github.com/Lokeshrathi/Diabetes-Prediction/blob/master/Images/download%20(1).png)
+
 - Women who have **high DiabetesPedigreeFunction are more likely to have Diabetes**
 - With **less DiabetesPedigreeFunction**, the chances are very low (i.e when the **value is less than 0.4**)
+
 ![](https://github.com/Lokeshrathi/Diabetes-Prediction/blob/master/Images/download.png)
+
 - Elderly woman are more likely to have Diabetes.
 ---
 ## Machine Learning Algorithm
@@ -37,3 +46,8 @@
 ---
 ## Prediction 
 - Prediction model was built and deployed. 
+
+![](/Images/pre.png)
+
+- The output '1' predicts the chances of having diabtes and '0' predicts the chances are very less
+
